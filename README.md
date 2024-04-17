@@ -1,1 +1,4 @@
-# Sistema-Gest-o-de-Aeroporto-POO-TADS
+# Sistema de Gestão de Aeroporto
+
+## Linguagem utilizada
+PHP
